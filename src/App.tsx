@@ -1,9 +1,7 @@
+import { MyRoutes } from '@routes/Routes';
 
 function App() {
-  return (
-    <>
-    </>
-  )
+	return <MyRoutes />;
 }
 
-export default App
+export default App;

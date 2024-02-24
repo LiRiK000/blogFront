@@ -1,0 +1,7 @@
+body {
+	background: rgb(28, 28, 28) !important;
+}
+#root {
+	width: 100vw !important;
+	height: 100vh !important;
+}
